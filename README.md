@@ -75,7 +75,7 @@ A real-time embedded system that detects proximity and triggers alerts using mul
 - ARM/DISARM system logic with trigger thresholds
 - Buzzer alert system
 
-=
+👉 [View Project](./esp32-proximity-security-system)
 
 ## 📫 Contact
 
