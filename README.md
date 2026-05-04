@@ -61,19 +61,18 @@ Collection of ESP32-based projects demonstrating:
 - [Lab 7: ESP32 Web Server](./labs/Lab7_Web_Server.pdf)
 - [Lab 8: BLE LED Control](./labs/Lab8_BLE_LED.pdf)
 - [Lab 9: Multithreading with FreeRTOS](./labs/Lab9_FreeRTOS.pdf)
-## 🚀 Featured Project
 
-### Ultrasonic Proximity Security System
+## 🔥 Featured Projects
 
-A real-time embedded system that detects proximity and triggers alerts using multiple integrated subsystems.
+### 🚨 ESP32 Proximity Security System
 
-**Key Features:**
-- Ultrasonic sensor with filtered distance measurement
-- LED bar graph for real-time proximity visualization
-- BLE + WiFi communication interfaces
-- LCD display with dynamic alert messages
-- ARM/DISARM system logic with trigger thresholds
-- Buzzer alert system
+A real-time embedded system that detects proximity and triggers alerts using sensors, wireless communication, and visual feedback.
+
+- ESP32 + Ultrasonic sensing  
+- LED bar graph visualization  
+- BLE + WiFi communication  
+- LCD + alert system  
+- Real-time processing + system logic  
 
 👉 [View Project](./esp32-proximity-security-system)
 
