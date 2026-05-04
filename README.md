@@ -54,14 +54,13 @@ Collection of ESP32-based projects demonstrating:
 
 ## 📚 Lab Reports
 
-- [Lab 2: Serial Communication & LED Bar Graph](./labs/EmbedLAB2Serial.pdf)
-- [Lab 3: Touch Sensor System](./labs/Lab3TouchSensor^0BarGraph.pdf)
-- [Lab 5: Motor Control with PWM](./labs/Lab_5embed.pdf)
-- [Lab 6: Servo + Ultrasonic Rangefinding](./labs/embedLab_6.pdf)
-- [Lab 7: ESP32 Web Server](./labs/embedlab7.pdf)
-- [Lab 8: BLE LED Control](./labs/Embedlab8.pdf)
-- [Lab 9: Multithreading with FreeRTOS](./labs/embedlab9.pdf)
-
+- [Lab 2: Serial Communication & LED Bar Graph](./labs/Lab2_Serial_BarGraph.pdf)
+- [Lab 3: Touch Sensor System](./labs/Lab3_Touch_Sensor.pdf)
+- [Lab 5: Motor Control with PWM](./labs/Lab5_Motor_Control.pdf)
+- [Lab 6: Servo + Ultrasonic Rangefinding](./labs/Lab6_Servo_Ultrasonic.pdf)
+- [Lab 7: ESP32 Web Server](./labs/Lab7_Web_Server.pdf)
+- [Lab 8: BLE LED Control](./labs/Lab8_BLE_LED.pdf)
+- [Lab 9: Multithreading with FreeRTOS](./labs/Lab9_FreeRTOS.pdf)
 ## 🚀 Featured Project
 
 ### Ultrasonic Proximity Security System
