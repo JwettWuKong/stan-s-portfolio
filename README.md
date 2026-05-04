@@ -2,17 +2,6 @@
 
 Computer Engineering student focused on building real-world systems that integrate hardware, software, and communication.
 
----
-
-## 🚨 Ultrasonic Security System
-A real-time embedded system using ESP32 that detects proximity and triggers alerts using LEDs, LCD, WiFi, and BLE.
-
-- Ultrasonic sensor + distance filtering
-- LED bar graph visualization
-- ARM/DISARM system logic
-- BLE control (phone commands)
-- Web dashboard (real-time monitoring)
-- LCD + buzzer alerts
 
 ---
 
@@ -63,17 +52,15 @@ Collection of ESP32-based projects demonstrating:
 - **Lab 9: Multithreading with FreeRTOS**  
   Designed a multi-task system using FreeRTOS for concurrent BLE and LCD operations.
 
-  /labs
+## 📚 Lab Reports
 
-- [EmbedLAB2Serial.pdf](https://github.com/user-attachments/files/27377942/EmbedLAB2Serial.pdf)
-- [Lab3TouchSensor^0BarGraph.pdf](https://github.com/user-attachments/files/27377961/Lab3TouchSensor.0BarGraph.pdf)
-- [Lab 5embed.pdf](https://github.com/user-attachments/files/27377964/Lab.5embed.pdf)
-- [embedLab 6.pdf](https://github.com/user-attachments/files/27377967/embedLab.6.pdf)
-- [embedLab 6.pdf](https://github.com/user-attachments/files/27377971/embedLab.6.pdf)
-- [embedlab7.pdf](https://github.com/user-attachments/files/27377974/embedlab7.pdf)
-- [Embedlab8.pdf](https://github.com/user-attachments/files/27377976/Embedlab8.pdf)
-- [embedlab9.pdf](https://github.com/user-attachments/files/27377981/embedlab9.pdf)
-
+- [Lab 2: Serial Communication & LED Bar Graph](./labs/EmbedLAB2Serial.pdf)
+- [Lab 3: Touch Sensor System](./labs/Lab3TouchSensor^0BarGraph.pdf)
+- [Lab 5: Motor Control with PWM](./labs/Lab_5embed.pdf)
+- [Lab 6: Servo + Ultrasonic Rangefinding](./labs/embedLab_6.pdf)
+- [Lab 7: ESP32 Web Server](./labs/embedlab7.pdf)
+- [Lab 8: BLE LED Control](./labs/Embedlab8.pdf)
+- [Lab 9: Multithreading with FreeRTOS](./labs/embedlab9.pdf)
 
 ## 🚀 Featured Project
 
