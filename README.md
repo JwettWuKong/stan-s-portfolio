@@ -25,33 +25,25 @@ A real-time embedded system that detects proximity and triggers alerts using sen
 ## 📚 Lab Work
 
 - **Lab 2: Serial Communication & LED Bar Graph**  
-  Implemented serial input parsing to control a 10-LED bar graph in real time.  
-  👉 [View Report](./labs/Lab2_Serial_BarGraph.pdf)
+  👉 [View Report](./Lab2_Serial_BarGraph.pdf)
 
 - **Lab 3: Touch Sensor System**  
-  Developed capacitive touch sensing with auto-calibration and LED feedback.  
-  👉 [View Report](./labs/Lab3_Touch_Sensor.pdf)
+  👉 [View Report](./Lab3_Touch_Sensor.pdf)
 
 - **Lab 5: Motor Control with PWM**  
-  Controlled DC motor speed and direction using joystick input and L293D driver.  
-  👉 [View Report](./labs/Lab5_Motor_Control.pdf)
+  👉 [View Report](./Lab5_Motor_Control.pdf)
 
 - **Lab 6: Servo + Ultrasonic Rangefinding**  
-  Combined servo positioning with ultrasonic sensing for directional measurement.  
-  👉 [View Report](./labs/Lab6_Servo_Ultrasonic.pdf)
+  👉 [View Report](./Lab6_Servo_Ultrasonic.pdf)
 
 - **Lab 7: ESP32 Web Server**  
-  Hosted a webpage using ESP32 and served HTML over WiFi.  
-  👉 [View Report](./labs/Lab7_Web_Server.pdf)
+  👉 [View Report](./Lab7_Web_Server.pdf)
 
 - **Lab 8: BLE LED Control**  
-  Implemented wireless LED control using Bluetooth Low Energy (BLE).  
-  👉 [View Report](./labs/Lab8_BLE_LED.pdf)
+  👉 [View Report](./Lab8_BLE_LED.pdf)
 
 - **Lab 9: Multithreading with FreeRTOS**  
-  Built concurrent embedded tasks using FreeRTOS.  
-  👉 [View Report](./labs/Lab9_FreeRTOS.pdf)
-
+  👉 [View Report](./Lab9_FreeRTOS.pdf)
 ---
 
 ## 🧠 Skills
