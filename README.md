@@ -18,7 +18,7 @@ A real-time embedded system that detects proximity and triggers alerts using sen
 - LCD + alert system  
 - Real-time processing + system logic  
 
-👉 [View Project](../stan-s-projects/tree/main/esp32-proximity-security-system)
+👉 [View Project]([../stan-s-projects/tree/main/esp32-proximity-security-system](https://github.com/JwettWuKong/stan-s-projects/blob/main/Final_Project_Report.pdf))
 
 ---
 
