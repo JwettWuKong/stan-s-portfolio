@@ -60,4 +60,4 @@ A real-time embedded system that detects proximity and triggers alerts using sen
 ## 📫 Contact
 
 www.linkedin.com/in/stanley-etienne-74649a24b  
-stanleyfootball7@gmail.com
+stanleyetienne.the1@gmail.com
