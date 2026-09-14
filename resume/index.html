@@ -1,4 +1,23 @@
-stan-s-portfolio/
-  resume/
-    resume.pdf       ← overwrite this file each time you update your resume
-    index.html        ← paste the code below, create once, never touch again
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Stanley Etienne — Resume</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  html, body { margin: 0; padding: 0; height: 100%; background: #1f1f1f; }
+  .bar { background: #1F3864; color: #fff; font-family: Calibri, Arial, sans-serif;
+         padding: 10px 16px; display: flex; justify-content: space-between; align-items: center; }
+  .bar a { color: #fff; text-decoration: none; font-size: 14px; border: 1px solid #fff;
+           padding: 6px 12px; border-radius: 4px; }
+  embed { width: 100%; height: calc(100% - 46px); border: none; }
+</style>
+</head>
+<body>
+  <div class="bar">
+    <span>Stanley Etienne — Resume</span>
+    <a href="resume.pdf" download>Download PDF</a>
+  </div>
+  <embed src="resume.pdf" type="application/pdf" />
+</body>
+</html>
